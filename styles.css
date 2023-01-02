@@ -1,0 +1,173 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top:120px;
+  margin-bottom: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+  color: #3e9c87;
+}
+
+.top-container {
+  background-color:#e0ebe8;
+  padding-top: 135px;
+  position: relative;
+
+} 
+
+.Top_cloud {
+position: absolute;
+margin-left: 680px;
+margin-top: -100px;
+
+}
+
+.Bottom_cloud{
+  position: absolute;
+
+}
+
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-weight: 600px;
+  color: #3e9c87;
+  font-size: 31px;
+ 
+
+
+}
+
+ h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
+  font-weight: bolder;
+  color: #3e9c87;
+  margin-top: -5px;
+}
+
+p{
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+
+.skill_1_img, .skill_2_img {
+  display: inline-block;
+  max-width: 30%;
+  width: 250px;
+ display: inline-block;
+ }
+
+ .middle_container_img {
+  width: 250px;
+  margin: 60px 0 20px;
+
+ }
+
+ .middle-container {
+ padding: 0px 500px;
+
+ }
+
+ .bottom_container {
+  padding: 0px 400px;
+ 
+  }
+
+.skill_1, .skill_2 {
+  padding: 0px 450px;
+ 
+  }
+
+ .skill_1, .skill_2 {
+  padding: 30px 300px;
+
+ 
+  }
+
+.header_img{
+  width: 110px;
+  position: absolute;
+  margin-left: -550px;
+  margin-top: -40px;
+}
+
+hr{
+border-style: dotted;
+max-width: 10%;
+border-width:7px 0 0 0 ;
+color: whitesmoke;
+margin: 65px auto;
+
+}
+
+.skill_1_desc {
+ display: block;
+ max-width: 70%;
+ text-align: left;
+ margin: 100px 120px 0 ;
+
+
+}
+
+
+.skill_1_img{
+  float: left;
+  margin:0 30px 0 60px;
+
+}
+
+.skill_1_h1{
+  margin: 50px 0 -80px;
+
+}
+
+
+.skill_2_desc {
+  display: block;
+  max-width: 70%;
+  margin: 100px 0 0 120px;
+  text-align: left;
+ 
+ }
+
+ 
+.skill_2_img{
+  float: right;
+  margin: 0 60px 0 30px;
+}
+
+.skill_2_h1{
+  margin: 50px 0 -80px -418px;
+
+}
+
+.button {
+  background-color: #3e9c87; 
+  border: none;
+  color: #124f41;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 50px;
+}
+
+.footer{
+background-color: #c5ded7;
+color: #45b29a;
+margin-bottom: 0px;
+}
+
+.footer_text{
+margin: 0px;
+font-size: 15px;
+padding: 20px;
+}
